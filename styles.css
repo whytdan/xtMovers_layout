@@ -1308,13 +1308,6 @@ label.error{
   }
 }
 
-.radio_wrapper span{
-  margin-top: 5px;
-  margin-left: 15px;
-}
-
-
-
 input[type='radio']:after {
   width: 25px;
   height: 25px;
